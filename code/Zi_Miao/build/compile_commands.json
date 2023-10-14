@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/l/code/Zi_Miao/build",
+  "command": "/usr/bin/c++  -DFMT_LOCALE -DPROJECT_DIR=\\\"/home/l/code/Zi_Miao\\\" -I/usr/include/eigen3 -I/home/l/code/Zi_Miao/devices -isystem /usr/local/include/opencv4   -g -Ofast -pthread -Wl,--no-as-needed -fPIC -no-pie   -o CMakeFiles/main.dir/main.cpp.o -c /home/l/code/Zi_Miao/main.cpp",
+  "file": "/home/l/code/Zi_Miao/main.cpp"
+},
+{
+  "directory": "/home/l/code/Zi_Miao/build/devices",
+  "command": "/usr/bin/c++  -DFMT_LOCALE -DPROJECT_DIR=\\\"/home/l/code/Zi_Miao\\\" -Ddevices_EXPORTS -I/usr/include/eigen3 -I/home/l/code/Zi_Miao/devices -isystem /usr/local/include/opencv4   -g -Ofast -pthread -Wl,--no-as-needed -fPIC -no-pie -fPIC   -fPIC -o CMakeFiles/devices.dir/camera/mv_camera.cpp.o -c /home/l/code/Zi_Miao/devices/camera/mv_camera.cpp",
+  "file": "/home/l/code/Zi_Miao/devices/camera/mv_camera.cpp"
+}
+]

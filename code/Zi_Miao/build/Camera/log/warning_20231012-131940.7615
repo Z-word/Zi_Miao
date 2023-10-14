@@ -1,0 +1,4 @@
+Log file created at: 2023/10/12 13:19:40
+Running on machine: l-Legion-Y9000P-IAH7H
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1012 13:19:40.969776  7619 MVCameraBase.cpp:99] Device:(name:1 sn:040150220554)Lost

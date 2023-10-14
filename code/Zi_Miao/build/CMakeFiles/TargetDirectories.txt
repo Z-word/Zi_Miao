@@ -1,0 +1,6 @@
+/home/l/code/Zi_Miao/build/CMakeFiles/rebuild_cache.dir
+/home/l/code/Zi_Miao/build/CMakeFiles/edit_cache.dir
+/home/l/code/Zi_Miao/build/CMakeFiles/main.dir
+/home/l/code/Zi_Miao/build/devices/CMakeFiles/rebuild_cache.dir
+/home/l/code/Zi_Miao/build/devices/CMakeFiles/edit_cache.dir
+/home/l/code/Zi_Miao/build/devices/CMakeFiles/devices.dir
